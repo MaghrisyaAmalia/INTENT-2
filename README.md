@@ -8,7 +8,7 @@ INTENT 2
 ![intent2 3](https://cloud.githubusercontent.com/assets/22170389/19561949/bd123874-9704-11e6-8096-fb52ca57088a.png)
 ![intent2 4](https://cloud.githubusercontent.com/assets/22170389/19561950/bd14e75e-9704-11e6-8602-ba2caa42f506.png)
 
-NAMA : MAGHRISYA AMALIA WARDANA
-KELAS : XI RPL 6
-NO URUT : 17
-NIS :4746/1465.070
+<br>NAMA : MAGHRISYA AMALIA WARDANA
+<br>KELAS : XI RPL 6
+<br>NO URUT : 17
+<br>NIS :4746/1465.070
